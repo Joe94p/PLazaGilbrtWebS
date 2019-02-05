@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHub Followers</string>
+
+    <!-- Enter user -->
+    <string name="enter_user_hint">User</string>
+    <string name="enter_user_button">Explore followers</string>
+
+    <!-- Info user -->
+    <string name="repositories">Repositories:</string>
+    <string name="following">Following:</string>
+    <string name="followers">FOLLOWERS</string>
+
+    <!-- Mensajes de error -->
+    <string name="mensaje">Se requiere que este campo</string>
+</resources>
